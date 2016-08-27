@@ -1,0 +1,12 @@
+name: Drupal 8 Playground
+type: theme
+description: Just dabblin' in D8
+package: Other
+core: 8.x
+libraries:
+  - d8playground/global-styling
+
+base theme: false
+
+regions:
+  content: Content
